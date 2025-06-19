@@ -1,16 +1,52 @@
-# fit_eval
+# 🩺 FitEval - BMI Calculator App
 
-A new Flutter project.
+**FitEval** is a clean, lightweight BMI (Body Mass Index) calculator built using Flutter. Designed to help users easily calculate and understand their BMI based on age, weight, height, and gender — all in a beautiful and intuitive interface.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🔢 Real-time BMI Calculation
+- 📏 Height input in **CM or Inches**
+- 👤 Gender and Age-based input
+- 💾 **Save your BMI results** locally
+- 🎯 Clear classification (Underweight, Normal, Overweight, Obese)
+- ✨ Minimal and responsive UI/UX
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+<p float="left">
+  <img src="assets/images/1.png" width="30%" />
+  <img src="assets/images/2.png" width="30%" />
+  <img src="assets/images/3.png" width="30%" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repo:  
+   `git clone https://github.com/yourusername/FitEval.git`
+
+2. Install dependencies:  
+   `flutter pub get`
+
+3. Run the app:  
+   `flutter run`
+
+## 🧠 Technologies Used
+
+- Flutter + Dart
+- SharedPreferences (local storage)
+- Material Design
+
+## 📦 APK Release
+
+You can download the latest APK from the [Releases](https://github.com/yourusername/FitEval/releases) section.
+
+## 🛠️ Upcoming Features
+
+- 📊 BMI history chart
+- 📝 User profiles
+- 📤 Cloud sync
+
+## 🧑‍💻 Developed by
+
+**Abdullah-Al-Mamun Saif**  
+Bachelor of CSE, Daffodil International University  
+[saif.painn](https://www.instagram.com/saif.painn)
