@@ -44,9 +44,3 @@ You can download the latest APK from the [Releases](https://github.com/saif-pain
 - 📊 BMI history chart
 - 📝 User profiles
 - 📤 Cloud sync
-
-## 🧑‍💻 Developed by
-
-**Abdullah-Al-Mamun Saif**  
-Bachelor of CSE, Daffodil International University  
-[saif.painn](https://www.instagram.com/saif.painn)
