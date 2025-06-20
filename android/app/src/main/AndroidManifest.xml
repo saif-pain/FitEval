@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.saifpain.fit_eval">
     <application
-        android:label="fit_eval"
+        android:label="FitEval"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

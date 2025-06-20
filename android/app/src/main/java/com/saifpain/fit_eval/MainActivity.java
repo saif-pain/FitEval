@@ -1,4 +1,4 @@
-package com.example.fit_eval;
+package com.saifpain.fit_eval;
 
 import io.flutter.embedding.android.FlutterActivity;
 

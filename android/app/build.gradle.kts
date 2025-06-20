@@ -6,9 +6,9 @@ plugins {
 }
 
 android {
-    namespace = "com.example.fit_eval"
+    namespace = "com.saifpain.fit_eval"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "28.1.13356709"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
